@@ -94,10 +94,8 @@ Establish and document a stable enterprise environment.
 
 ---
 
-## Phase 2 – Migration Event
-<!--
-[Phase 2](Documentation/Phase2.md) 
--->
+## [Phase 2](Documentation/Phase2.md) - Migration Event
+
 Execute migration-related changes and document system impact.
 
 ### Deliverables
@@ -110,10 +108,10 @@ Execute migration-related changes and document system impact.
 
 ## Phase 3 – Incident Response
 <!--
-[Phase 3](Documentation/Phase3.md) 
+[Phase 3](Documentation/Phase3.md) - Incident Response
 -->
 
-Investigate and diagnose user-reported issues.
+Investigate and diagnose user-reported issues. 
 
 ### Deliverables
 
@@ -125,7 +123,7 @@ Investigate and diagnose user-reported issues.
 
 ## Phase 4 – Stabilization & Recovery
 <!--
-[Phase 4](Documentation/Phase4.md) 
+[Phase 4](Documentation/Phase4.md) - Stabilization & Recovery
 -->
 
 Implement corrective actions and restore system stability.
@@ -140,7 +138,7 @@ Implement corrective actions and restore system stability.
 
 ## Phase 5 – Reporting & Presentation
 <!--
-[Phase 5](Documentation/Phase5.md) 
+[Phase 5](Documentation/Phase5.md) – Reporting & Presentation
 -->
 
 Communicate findings, lessons learned, and project outcomes.
